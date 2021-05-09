@@ -13,85 +13,95 @@ BODY {
   width: 940px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
+  background-color: #E9E5DD;
 }
 
 H1 {
-  color: red;
+  color: #851526;
 }
 
 H2 {
   text-align: center;
-  color: blue;
+  color: #851526;
 }
 
 HEADER#Banner {
   width: 940px;
   height: 100px;
   margin: 5px auto;
-  border: 1px solid #000000;
   text-align: center;
-  background-color: blue;
+  background-color: #E9E5DD;
 }
 
 FOOTER {
   width: 940px;
   height: 40px;
   margin: 5px auto;
-  border: 1px solid #000000;
+  border: 1px solid #851526;
   text-align: center;
-  background-color: yellow;
+  background-color: #E9E5DD;
 }
 
-NAV {
-  width: 940px;
-  height: 50px;
-  float: left;
-  font-family: Geneva, Arial;
-  border: 1px solid #000000;
-  background-color: #d0dbf0;
+/* Start Holly Hack, hidden from MacIE. \*/
+#navcontainer {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  border-top: 1px solid #851526;
+  z-index: 1;
 }
 
-NAV ul {
-  margin: 0px auto;
-  padding: 15px;
+#navcontainer ul {
   list-style-type: none;
-}
-NAV li {
-  display: inline;
+  text-align: center;
+  margin-top: -8px;
+  padding: 0;
+  position: relative;
+  z-index: 2;
 }
 
-NAV li a {
-  float: left;
+#navcontainer li {
+  display: inline;
   text-align: center;
-  border-right: 2px solid #00dbf0;
-  width: 100px;
-  font-size: 14px;
-  padding: 0px 10px;
-  color: #0000ff;
+  margin: 0 5px;
+}
+
+#navcontainer li a {
+  padding: 1px 7px;
+  color: #666;
+  background-color: #E9E5DD;
+  border: 1px solid #851526;
   text-decoration: none;
 }
 
-NAV li a:hover {
-  color: #00dbf0;
+#navcontainer li a:hover {
+  color: #000;
+  border: 1px solid #851526;
+  border-top: 2px solid #851526;
+  border-bottom: 2px solid #851526;
 }
 
-SECTION#Wrapper {
-  margin-top: 100px;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 50px;
+#navcontainer li a#current {
+  color: #000;
+  border: 2px solid #851526;
+  border-top: 2px solid #851526;
+  border-bottom: 2px solid #851526;
 }
+
+/* End Nav */
 
 ARTICLE#Article_1 {
   width: 900px;
   height: 500px;
-  background-color: #adaaaa;
+  background-color: #E9E5DD;
+  border: 1px solid #851526;
 }
 
 HEADER#Header_Article_1 {
   width: 900px;
-  height: 60px;
-  background-color: #dcdcdc;
+  height: 40px;
+  background-color: #E9E5DD;
+  border: 1px solid #851526;
 }
 
 SECTION#Section_Article_1 {
@@ -101,5 +111,6 @@ SECTION#Section_Article_1 {
   margin-left: 20px;
   margin-right: 20px;
   margin-bottom: 20px;
-  background-color: #f8ebeb;
+  border: 1px solid #851526;
+  background-color: #E9E5DD;
 }
