@@ -36,10 +36,9 @@ HEADER#Banner {
 FOOTER {
   width: 940px;
   height: 40px;
-  margin: 5px auto;
-  border: 1px solid #851526;
+  border: 1px solid #E9E5DD;
   text-align: center;
-  background-color: #E9E5DD;
+  background-color: #851526;
 }
 
 /* Start Holly Hack, hidden from MacIE. \*/
@@ -90,27 +89,11 @@ FOOTER {
 
 /* End Nav */
 
-ARTICLE#Article_1 {
-  width: 900px;
-  height: 500px;
-  background-color: #E9E5DD;
-  border: 1px solid #851526;
-}
-
-HEADER#Header_Article_1 {
-  width: 900px;
-  height: 40px;
-  background-color: #E9E5DD;
-  border: 1px solid #851526;
-}
-
 SECTION#Section_Article_1 {
-  width: 850px;
-  height: 400px;
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 20px;
+  width: 900px;
+  height: 475px;
+  margin-top: 20px auto;
+  margin-bottom: 20px auto;
   border: 1px solid #851526;
   background-color: #E9E5DD;
 }

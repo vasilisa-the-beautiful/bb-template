@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88"
-     inkscape:cx="91.298259"
+     inkscape:cx="487.5547"
      inkscape:cy="116.43884"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -57,7 +57,7 @@
      transform="translate(-70.028048,-16.173054)">
     <text
        xml:space="preserve"
-       style="font-size:16.9333px;line-height:1.25;font-family:Otamendi;-inkscape-font-specification:Otamendi;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       style="font-size:16.9333px;line-height:1.25;font-family:Otamendi;-inkscape-font-specification:Otamendi;text-align:center;text-anchor:middle;mix-blend-mode:difference;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
        x="127.6096"
        y="30.109159"
        id="text20"><tspan
@@ -65,7 +65,7 @@
          id="tspan18"
          x="127.6096"
          y="30.109159"
-         style="font-size:16.9333px;text-align:center;text-anchor:middle;stroke-width:0.264583"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0">Beautifully Bipolar</tspan></text>
+         style="font-size:16.9333px;text-align:center;text-anchor:middle;fill:#851526;fill-opacity:1;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Beautifully Bipolar</tspan></text>
   </g>
 </svg>
