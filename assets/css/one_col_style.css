@@ -28,14 +28,14 @@ H2 {
 HEADER#Banner {
   width: 940px;
   height: 100px;
-  margin: 5px auto;
+  margin: 55px 5px 5px 5px;
   text-align: center;
   background-color: #E9E5DD;
 }
 
 FOOTER {
   width: 940px;
-  height: 40px;
+  height: 30px;
   border: 1px solid #E9E5DD;
   text-align: center;
   background-color: #851526;
@@ -94,6 +94,6 @@ SECTION#Section_Article_1 {
   height: 475px;
   margin-top: 20px auto;
   margin-bottom: 20px auto;
-  border: 1px solid #851526;
+  border: 3px solid #851526;
   background-color: #E9E5DD;
 }
