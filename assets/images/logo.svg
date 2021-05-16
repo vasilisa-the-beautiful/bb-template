@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="431.80615"
-   height="82.047836"
-   viewBox="0 0 114.24872 21.70849"
+   width="576.54285"
+   height="109.39736"
+   viewBox="0 0 152.5417 28.944354"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88"
-     inkscape:cx="487.5547"
-     inkscape:cy="116.43884"
+     inkscape:cx="275.66899"
+     inkscape:cy="131.72459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -37,7 +37,12 @@
      inkscape:window-height="850"
      inkscape:window-x="-6"
      inkscape:window-y="-6"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     scale-x="0.26458"
+     fit-margin-top="0"
+     fit-margin-left="0.8"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -54,18 +59,18 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-70.028048,-16.173054)">
+     transform="translate(-54.531907,-12.128751)">
     <text
        xml:space="preserve"
-       style="font-size:16.9333px;line-height:1.25;font-family:Otamendi;-inkscape-font-specification:Otamendi;text-align:center;text-anchor:middle;mix-blend-mode:difference;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
-       x="127.6096"
-       y="30.109159"
+       style="font-size:19.7556px;line-height:1.25;font-family:Otamendi;-inkscape-font-specification:Otamendi;text-align:center;text-anchor:middle;mix-blend-mode:difference;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+       x="131.51817"
+       y="30.710033"
        id="text20"><tspan
          sodipodi:role="line"
          id="tspan18"
-         x="127.6096"
-         y="30.109159"
-         style="font-size:16.9333px;text-align:center;text-anchor:middle;fill:#851526;fill-opacity:1;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
+         x="131.51817"
+         y="30.710033"
+         style="font-size:22.5775px;text-align:center;text-anchor:middle;fill:#3e1e14;fill-opacity:1;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none"
          rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Beautifully Bipolar</tspan></text>
   </g>
 </svg>

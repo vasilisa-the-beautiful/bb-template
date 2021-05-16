@@ -12,34 +12,37 @@ BODY {
   margin: 0 auto;
   width: 940px;
   font-family: 'Poppins', sans-serif;
-  font-size: 20px;
-  background-color: #E9E5DD;
+  font-weight: 400;
+  font-size: 16px;
+  color: #3e1e14;
+  background-color: #C2C2C1;
 }
 
 H1 {
-  color: #851526;
+  color: #3e1e14;
 }
 
 H2 {
   text-align: center;
-  color: #851526;
+  color: #3e1e14;
 }
 
 HEADER#Banner {
   width: 940px;
   height: 100px;
-  margin: 55px 5px 5px 5px;
+  margin: 35px 5px 5px 5px;
+  margin-bottom: 30px;
   text-align: center;
-  background-color: #E9E5DD;
+  background-color: #C2C2C1;
 }
 
 FOOTER {
   width: 940px;
   height: 30px;
   margin-top: 10px;
-  border: 1px solid #851526;
+  border: 0px solid #3e1e14;
   text-align: center;
-  background-color: #E9E5DD;
+  background-color: #C2C2C1;
 }
 
 /* Start Holly Hack, hidden from MacIE. \*/
@@ -47,8 +50,12 @@ FOOTER {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
-  border-top: 1px solid #851526;
+  border-top: 2px solid #3e1e14;
   z-index: 1;
+  font-family: 'Poppins', sans-serif;
+  font-size: 22px;
+  font-variant: small-caps;
+  font-weight: 400;
 }
 
 #navcontainer ul {
@@ -68,24 +75,25 @@ FOOTER {
 
 #navcontainer li a {
   padding: 1px 7px;
-  color: #666;
-  background-color: #E9E5DD;
-  border: 1px solid #851526;
+  color: #3e1e14;
+  background-color: #C2C2C1;
+  border: 1px solid #3e1e14;
   text-decoration: none;
 }
 
 #navcontainer li a:hover {
-  color: #000;
-  border: 1px solid #851526;
-  border-top: 2px solid #851526;
-  border-bottom: 2px solid #851526;
+  color: #3e1e14;
+  border: 1px solid #3e1e14;
+  border-top: 2px solid #3e1e14;
+  border-bottom: 2px solid #3e1e14;
 }
 
 #navcontainer li a#current {
-  color: #000;
-  border: 2px solid #851526;
-  border-top: 2px solid #851526;
-  border-bottom: 2px solid #851526;
+  color: #3e1e14;
+  font-style: bold;
+  border: 2px solid #3e1e14;
+  border-top: 2px solid #3e1e14;
+  border-bottom: 2px solid #3e1e14;
 }
 
 /* End Nav */
@@ -95,7 +103,9 @@ SECTION#Section_Article_1 {
   height: 475px;
   margin-top: 20px auto;
   margin-bottom: 20px auto;
-  padding: 10px;
-  border: 1px solid #851526;
-  background-color: #E9E5DD;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 0px;
+  border: 0px solid #3e1e14;
+  background-color: #C2C2C1;
 }
