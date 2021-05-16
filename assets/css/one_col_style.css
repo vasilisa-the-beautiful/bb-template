@@ -11,7 +11,7 @@ margin auto gets you a centred web page*/
 BODY {
   margin: 0 auto;
   width: 940px;
-  font-family: Brandon Grotesque, sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 20px;
   background-color: #E9E5DD;
 }
