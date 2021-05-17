@@ -13,3 +13,7 @@ exclude:
   - LICENSE
   - README.md
   - Makefile
+  - vendor/
+  - node_modules/
+  - Gemfile
+  - Gemfile.lock
