@@ -1,0 +1,15 @@
+title: Themeless Jekyll Quickstart
+url: "https://www.beautifully-bipolar.com"
+baseurl: "/BB-TEMPLATE JEKYLL"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+### Content settings ###
+
+exclude:
+  - LICENSE
+  - README.md
+  - Makefile
